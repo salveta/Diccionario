@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Diccionario Ratonero</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">New Note</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_edit_note">Crear</string>
+    <string name="note_title_hint">Palabra</string>
+    <string name="note_content_hint">Significado</string>
+    <string name="save_button">Guardar</string>
+    <string name="edit_error_title">Error!</string>
+    <string name="edit_error_message">No se puede guardar una palabra sin título ratona!!</string>
+    <string name="title_activity_detail">Palabra y Significado</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_edit_palabras">Editar</string>
+    <string name="title_activity_delete_palabras">DeletePalabras</string>
+
+</resources>

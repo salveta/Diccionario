@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_autorenew_white"
+        android:showAsAction="always|withText"
+        android:title="@string/action_refresh">
+    </item>
+
+    <item
+        android:id="@+id/action_new"
+        android:showAsAction="always|withText"
+        android:title="@string/action_new"
+        android:icon="@drawable/ic_assignment_turned_in_white"/>
+</menu>
